@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Smart health</string>
+    <string name="string_email">Email</string>
+    <string name="string_password">Password</string>
+    <string name="string_login">Login</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="user_name">User Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="create_my_account">Create my account</string>
+    <string name="next">Next</string>
+    <string name="welcome">Hi, Welcome back to Login ;)</string>
+    <string name="done">Done</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender: </string>
+    <string name="basic_information">Basic information</string>
+</resources>
